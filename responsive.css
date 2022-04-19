@@ -1,0 +1,172 @@
+@media (max-width: 400px) {
+  header section aside nav ul li a {
+    font-size: 40px;
+  }
+  .ronin h1 {
+    font-size: 16px !important;
+  }
+  .ronin .soon {
+    font-size: 30px !important;
+  }
+}
+@media (max-width: 760px) {
+  header section aside nav ul li a {
+    font-size: 30px !important;
+  }
+  header section .right nav ul li .fa-discord {
+    margin-right: 2px;
+  }
+  .mintNow {
+    font-size: 15px;
+  }
+  header section .right nav ul li a {
+    font-size: 35px !important;
+  }
+  .mint {
+    font-size: 15px !important;
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 810px) {
+  .ronin .soon {
+    font-size: 60px;
+  }
+  h2.deff {
+    font-size: 20px;
+  }
+  .faq {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 600px) {
+  .ronin .soon {
+    font-size: 50px;
+  }
+  .roadmap h1 {
+    font-size: 25px;
+  }
+  .h1Faq {
+    font-size: 30px !important;
+  }
+  .roadmap div div h2 {
+    font-size: 18px;
+  }
+  .whyRonin h2 {
+    font-size: 18px !important;
+  }
+  .team div h1 {
+    font-size: 30px !important;
+  }
+  div .fa-discord {
+    font-size: 40px !important;
+  }
+  div .fa-twitter {
+    font-size: 40px !important;
+  }
+  .collection div a {
+    font-size: 18px;
+  }
+  div .aos-init h1 {
+    font-size: 25px;
+  }
+  div .aos-init h2 {
+    font-size: 16px !important;
+  }
+  div .aos-init .question {
+    font-size: 20px;
+  }
+  div .aos-init h3 {
+    font-size: 15px;
+  }
+  .countdown {
+    font-size: 25px;
+  }
+  .ronin a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 510px) {
+  header section .left nav ul li a {
+    font-size: 28px;
+  }
+  header section .right nav ul li a {
+    font-size: 35px;
+  }
+  .ronin h1 {
+    font-size: 20px;
+  }
+  .ronin .soon {
+    font-size: 40px;
+  }
+  .collection h1 {
+    padding-top: 25px;
+    font-size: 30px;
+  }
+  .collection a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 360px) {
+  header section .left nav ul li a {
+    font-size: 22px;
+  }
+  header section .right nav ul li a {
+    font-size: 28px;
+  }
+  .mintNow {
+    font-size: 10px;
+  }
+  header section .right nav ul li .fa-discord {
+    margin-right: 5px;
+  }
+  .collection h1 {
+    padding-top: 45px;
+    font-size: 25px;
+  }
+  h2.deff {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .faq {
+    margin-left: 20%;
+  }
+  .collection div .deff {
+    font-size: 20px;
+  }
+  .team h1 {
+    font-size: 2.2rem !important;
+  }
+}
+
+@media (max-width: 1050px) {
+  .faq {
+    margin-left: 10%;
+  }
+  .collection div .deff {
+    font-size: 18px;
+  }
+  .team h1 {
+    font-size: 2rem !important;
+  }
+}
+
+@media (max-width: 950px) {
+  .faq {
+    margin-left: 5%;
+  }
+  .collection div .deff {
+    font-size: 16px;
+  }
+  .ronin {
+    padding-top: 50px;
+  }
+  .team h1 {
+    font-size: 1.8rem !important;
+  }
+}
