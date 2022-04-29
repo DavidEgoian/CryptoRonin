@@ -1,3 +1,12 @@
+@media (max-width: 780px){
+  .mintNow{
+    display: none;
+  }
+  .nft5{
+    display: none;
+  }
+}
+
 @media (max-width: 400px) {
   header section aside nav ul li a {
     font-size: 40px;
@@ -29,6 +38,13 @@
 }
 
 @media (max-width: 810px) {
+  .collection h1 {
+    padding-top: 25px;
+    font-size: 30px;
+  }
+  .collection a {
+    font-size: 20px;
+  }
   .ronin .soon {
     font-size: 60px;
   }
@@ -41,6 +57,9 @@
 }
 
 @media (max-width: 600px) {
+  .opensea{
+    font-size: 16px !important;
+  }
   .ronin .soon {
     font-size: 50px;
   }
@@ -87,7 +106,17 @@
     font-size: 20px;
   }
 }
-
+@media (max-width: 550px){
+  .faqimages{
+    display: none;
+  }
+  .faq div{
+    margin-left: 5% !important;
+  }
+  .faq{
+    display: inline;
+  }
+}
 @media (max-width: 510px) {
   header section .left nav ul li a {
     font-size: 28px;
@@ -101,12 +130,8 @@
   .ronin .soon {
     font-size: 40px;
   }
-  .collection h1 {
-    padding-top: 25px;
-    font-size: 30px;
-  }
-  .collection a {
-    font-size: 20px;
+  .nft4{
+    display: none;
   }
 }
 
@@ -142,6 +167,24 @@
   .team h1 {
     font-size: 2.2rem !important;
   }
+  .team{
+    padding-left: 0px !important;
+  }
+  .container h1{
+    font-size: 22px;
+  }
+  .nav-item .nav-link{
+    font-size: 20px;
+  }
+  .nft6{
+    display: none;
+  }
+  .nft-margin{
+    margin-top: 100px !important;
+  }
+  .faq{
+    margin-bottom: 500px !important;
+  }
 }
 
 @media (max-width: 1050px) {
@@ -154,6 +197,13 @@
   .team h1 {
     font-size: 2rem !important;
   }
+  .nav-item .nav-link{
+    font-size: 18px;
+  }
+  .faqimages button{
+    width: 250px !important;
+    height: 250px !important;
+  }
 }
 
 @media (max-width: 950px) {
@@ -163,10 +213,19 @@
   .collection div .deff {
     font-size: 16px;
   }
+  .content div h1{
+    font-size: 20px !important;
+  }
   .ronin {
     padding-top: 50px;
   }
   .team h1 {
     font-size: 1.8rem !important;
+  }
+  .nav-item .nav-link{
+    font-size: 16px;
+  }
+  .opensea{
+    font-size: 16px !important;
   }
 }

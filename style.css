@@ -598,6 +598,7 @@ HTML CSSResult Skip Results Iframe EDIT ON .css-typing p {
   margin-top: 50px;
   font-size: 34px;
 }
+
 .center{
   margin-top: 20px;
   margin-bottom: 20px;
@@ -607,4 +608,13 @@ HTML CSSResult Skip Results Iframe EDIT ON .css-typing p {
 }
 .price{
   margin-right: 10px;
+}
+.toggle-button{
+  position: absolute;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 40px;
+  height: 31px;
+  margin-top: 16px;
 }
