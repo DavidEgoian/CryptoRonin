@@ -54,6 +54,18 @@
   .faq {
     margin-left: 0px;
   }
+  .team{
+    margin-top:auto;
+    margin-bottom:auto;
+    display:block;
+  }
+  .team img{
+    width: 200px;
+    height: 200px;
+  }
+  .team div h1{
+    font-size: 2fr;
+  } 
 }
 
 @media (max-width: 600px) {
@@ -104,6 +116,24 @@
   }
   .ronin a {
     font-size: 20px;
+  }
+}
+@media (max-width: 750px){
+  .left-footer{
+    display: none;
+  }
+  .right-footer{
+    margin: auto;
+  }
+  footer .contant div h1{
+    font-size: 18px;
+  }
+  .back-to-top h1{
+    font-size: 20px !important;
+  }
+  .back-to-top img{
+    width: 32px;
+    height: 32px;
   }
 }
 @media (max-width: 550px){
@@ -183,7 +213,7 @@
     margin-top: 100px !important;
   }
   .faq{
-    margin-bottom: 500px !important;
+    padding-bottom: 500px !important;
   }
 }
 

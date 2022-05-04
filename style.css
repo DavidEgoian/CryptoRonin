@@ -618,3 +618,7 @@ HTML CSSResult Skip Results Iframe EDIT ON .css-typing p {
   height: 31px;
   margin-top: 16px;
 }
+.faq div div .last-item{
+  margin-bottom: 0px !important;
+  padding: 0px !important;
+}
