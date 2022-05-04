@@ -163,6 +163,16 @@
   .nft4{
     display: none;
   }
+  footer .content div h1{
+    font-size: 16px !important;
+  }
+  footer .back-to-top h1{
+    font-size: 16px !important;
+  }
+  footer .back-to-top img{
+    width: 20px !important;
+    margin: 14px 10px 0px 0px !important;
+  }
 }
 
 @media (max-width: 360px) {
