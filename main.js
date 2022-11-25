@@ -27,14 +27,3 @@ function myFunction() {
     x.className = "topnav";
   }
 }
-
-// $("#slide").hover(function () {
-//   $("other").attr("style", "transform: scale(1) !important");
-//   $(this).css("heigth", "300px");
-// });
-
-// $("#slide").hover(function () {
-//   $this.css("transform", "scale(1)", "!important");
-//   $this.css("opasity", "1");
-//   $this.css("width", "300px");
-// });
