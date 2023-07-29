@@ -1,2 +1,2 @@
-# CryptoRoninFiles
+# CryptoRonin
 Crypto Ronin NFT project
