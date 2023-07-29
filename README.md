@@ -1,2 +1,2 @@
 # CryptoRoninFiles
-Crypto Ronin NFT project (OUT OF SUPPORT)
+Crypto Ronin NFT project
