@@ -223,13 +223,6 @@ header section .right nav ul li .fa-discord {
 .layer1 {
   background-image: url("./img/wave-haikei\ \(2\).svg");
 }
-.spacer {
-  aspect-ratio: 960/300;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 .layer2 {
   background-image: url("./img/wave-haikei\ \(3\).svg");
 }
@@ -500,44 +493,6 @@ footer {
 }
 .last-right {
   padding-right: 0px;
-}
-
-HTML CSSResult Skip Results Iframe EDIT ON .css-typing p {
-  border-right: 0.15em solid orange;
-  font-family: "Courier";
-  font-size: 14px;
-  white-space: nowrap;
-  overflow: hidden;
-}
-.css-typing p:nth-child(1) {
-  width: 7.3em;
-  -webkit-animation: type 2s steps(40, end);
-  animation: type 2s steps(40, end);
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-
-.css-typing p:nth-child(2) {
-  width: 11.5em;
-  opacity: 0;
-  -webkit-animation: type2 2s steps(40, end);
-  animation: type2 2s steps(40, end);
-  -webkit-animation-delay: 2s;
-  animation-delay: 2s;
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-
-.css-typing p:nth-child(3) {
-  width: 7.3em;
-  opacity: 0;
-  -webkit-animation: type3 5s steps(20, end),
-    blink 0.5s step-end infinite alternate;
-  animation: type3 5s steps(20, end), blink 0.5s step-end infinite alternate;
-  -webkit-animation-delay: 4s;
-  animation-delay: 4s;
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
 }
 
 .wrapper {
